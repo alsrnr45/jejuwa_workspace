@@ -30,5 +30,17 @@
 * Ajax를 이용한 문의 답글
   
 ## 프로젝트 설계 다이어그램
+  ![image](https://user-images.githubusercontent.com/74170717/127304419-7f42961c-7189-46b0-84e5-afca1644ff54.png)
+
+## 기능구현 
+ ### 회원가입(체크 제약조건 및 유효성 검사)
+
+https://user-images.githubusercontent.com/74170717/127308083-a9287303-496f-4ffe-bfb0-febc1a68c20e.mp4
+  
+ ### 회원가입(휴대폰 인증)
+
+
+  
+  
   
   
