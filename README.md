@@ -38,6 +38,7 @@
   ![녹화_2021_07_25_15_46_51_807 mp4_20210728_184757 - 복사본 mp4_20210728_192948](https://user-images.githubusercontent.com/74170717/127308709-df523947-18c7-4c12-9dde-f97835ae6520.gif)
 
  ### 회원가입(휴대폰 인증)
+![ezgif com-gif-maker(1)](https://user-images.githubusercontent.com/74170717/127338482-74f07184-f1e4-401d-a570-15bf577def15.gif)
 
 
   
