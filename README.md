@@ -34,9 +34,9 @@
 
 ## 기능구현 
  ### 회원가입(체크 제약조건 및 유효성 검사)
-
-https://user-images.githubusercontent.com/74170717/127308083-a9287303-496f-4ffe-bfb0-febc1a68c20e.mp4
   
+  ![녹화_2021_07_25_15_46_51_807 mp4_20210728_184757 - 복사본 mp4_20210728_192948](https://user-images.githubusercontent.com/74170717/127308709-df523947-18c7-4c12-9dde-f97835ae6520.gif)
+
  ### 회원가입(휴대폰 인증)
 
 
